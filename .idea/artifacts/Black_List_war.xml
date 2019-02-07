@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="Black_List:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="Black_List-1.0-SNAPSHOT.war">
-      <element id="artifact" artifact-name="Black_List:war exploded" />
-    </root>
-  </artifact>
-</component>
